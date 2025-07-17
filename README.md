@@ -29,11 +29,11 @@ LGU-style mapping of disaster-affected individuals per barangay—with map visua
 Public-access repository for uploading, archiving, and browsing student and faculty research papers.  
 **Tools:** PHP (CodeIgniter), MySQL
 
-### 🧭 Research Repository System – UPLB CFNR (Private)  
-Secure Laravel-powered platform for managing proposals and research outputs (CFNR-RDE office).  
+### 🧭 Research Repository System – (Private)  
+Secure Laravel-powered platform for managing proposals and research outputs.  
 **Tools:** Laravel 11, PHP, MySQL, AJAX, Excel Import/Export  
 
-### 🌱 Cacao Mapping Database System – BISU  
+### 🌱 Cacao Mapping Database System  
 Web-based tool for tracking cacao farm locations and farmer records for agri-research.  
 **Tools:** PHP (CodeIgniter), MySQL
 

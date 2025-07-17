@@ -45,7 +45,7 @@ Room/event booking system with admin approvals, schedule checks, and status cont
 Membership system featuring hierarchical structures, wallet tracking, commission logic, and dashboards.  
 **Tools:** PHP (CodeIgniter), MySQL
 
-### 🏙️ Unified Barangay Management System - QRCODE & SMS (Upcoming)  
+### 🏙️ Unified Barangay Management System - QRCODE & SMS (Ongoing)  
 A Laravel-based system to streamline barangay-level admin tasks—resident profiling, documentation, and local service management.  
 **Tools:** Laravel, PHP, MySQL, Vue.js
 

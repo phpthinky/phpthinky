@@ -1,61 +1,89 @@
-📌 Featured Projects
-✅ Completed Projects
-🎯 Child Health Monitoring System
+## 📌 Featured Projects
 
-A web tool to assess children's nutritional status (ECCD/DSWD), calculate BMI using age, weight, and height.
-Tech: PHP (CodeIgniter), MySQL, Bootstrap
+### ✅ Completed Projects
 
-🕒 QR Code Attendance System
+#### 🎯 Child Health Monitoring System
+A web tool to assess children's nutritional status (ECCD/DSWD), calculate BMI using age, weight, and height.  
+**Tech:** PHP (CodeIgniter), MySQL, Bootstrap
 
-Role-based attendance tracking for university events, including late/absent penalties and payment flow.
-Tech: PHP (CodeIgniter), MySQL, JavaScript
+#### 🕒 QR Code Attendance System
+Role-based attendance tracking for university events, including late/absent penalties and payment flow.  
+**Tech:** PHP (CodeIgniter), MySQL, JavaScript
 
-🌐 Disaster Risk Management Evaluation System
+#### 🌐 Disaster Risk Management Evaluation System
+LGU-style mapping of disaster-affected individuals per barangay—with map visualization and incident filters.  
+**Tech:** PHP (CodeIgniter), MySQL, Google Maps API
 
-LGU-style mapping of disaster-affected individuals per barangay—with map visualization and incident filters.
-Tech: PHP (CodeIgniter), MySQL, Google Maps API
+#### 📚 ThesisHub – Academic Research Repository
+Public-access repository for uploading, archiving, and browsing student and faculty research papers.  
+**Tech:** PHP (CodeIgniter), MySQL
 
-📚 ThesisHub – Academic Research Repository
+#### 🧭 Research Repository System – Private
+Secure Laravel-powered platform for managing proposals and research outputs.  
+**Tech:** Laravel 11, PHP, MySQL, AJAX, Excel Import/Export
 
-Public-access repository for uploading, archiving, and browsing student and faculty research papers.
-Tech: PHP (CodeIgniter), MySQL
+#### 🌱 Cacao Mapping Database System
+Tracks cacao farm locations and farmer records for agri-research.  
+**Tech:** PHP (CodeIgniter), MySQL
 
-🧭 Research Repository System – Private
+#### 📅 Booking System
+Room and event booking system with admin approvals, schedule checks, and status control.  
+**Tech:** PHP (CodeIgniter), MySQL
 
-Secure Laravel-powered platform for managing proposals and research outputs.
-Tech: Laravel 11, PHP, MySQL, AJAX, Excel Import/Export
+#### 💼 Multi-Level Marketing (MLM) System
+Membership system with hierarchical structures, wallet tracking, commission logic, and dashboards.  
+**Tech:** PHP (CodeIgniter), MySQL
 
-🌱 Cacao Mapping Database System
+#### 🏙️ Unified Barangay Management System – QRCODE & SMS
+Laravel-based system to streamline barangay-level administration: resident profiling, documentation, and local service management.  
+**Tech:** Laravel, PHP, MySQL, Vue.js
 
-Tracks cacao farm locations and farmer records for agri-research.
-Tech: PHP (CodeIgniter), MySQL
+#### 🌾 Crop Recommendation and Mapping System – Completed
+Web-based system that recommends crops based on soil fertility, soil analysis, multi-temporal data, and mapping using Leaflet.js for farm-level visualization.  
+**Tech:** Laravel, PHP, MySQL, Leaflet.js
 
-📅 Booking System
+#### 🏫 Junior High School Information System
+Comprehensive web system for managing student records, class schedules, grades, and teacher assignments for junior high schools.  
+**Tech:** Laravel, PHP, MySQL, AJAX
 
-Room and event booking system with admin approvals, schedule checks, and status control.
-Tech: PHP (CodeIgniter), MySQL
+#### 👥 HR Training & Personnel Management System
+Tracks employee training schedules, attendance, certifications, and HR personnel records, with reporting and performance analysis.  
+**Tech:** Laravel, PHP, MySQL, AJAX, Excel Import/Export
 
-💼 Multi-Level Marketing (MLM) System
+### 🛠️ LTO Kiosk System Modification – Ongoing
+Enhancement project for an existing LTO Kiosk system to integrate a centralized transaction page and implement operational improvements. The client requested new functionality that the current system cannot handle due to rush delivery constraints.  
 
-Membership system with hierarchical structures, wallet tracking, commission logic, and dashboards.
-Tech: PHP (CodeIgniter), MySQL
+**Key Recommendations:**
 
-🏙️ Unified Barangay Management System – QRCODE & SMS
+1️⃣ **Time Tracking (Minutes per transaction)**  
+- Start & end timestamp  
+- Auto computation  
+- DB updates  
+- Report integration  
 
-Laravel-based system to streamline barangay-level administration: resident profiling, documentation, and local service management.
-Tech: Laravel, PHP, MySQL, Vue.js
+2️⃣ **Step Tracking**  
+- Status flow system  
+- Logs per stage  
+- UI update considerations  
 
-🌾 Crop Recommendation and Mapping System – (Completed)
+3️⃣ **Window Assignment**  
+- Window management table  
+- Queue mapping  
+- Dashboard modifications  
 
-Web-based system that recommends crops based on soil fertility, soil analysis, multi-temporal data, and mapping using Leaflet.js for farm-level visualization.
-Tech: Laravel, PHP, MySQL, Leaflet.js,
+4️⃣ **Scheduling**  
+- Time slots logic  
+- Validation to prevent overlaps  
+- Admin configuration  
 
-🏫 Junior High School Information System
+5️⃣ **Reports & Analytics**  
+- Aggregation queries  
+- Filters  
+- Possibly charts  
 
-Comprehensive web system for managing student records, class schedules, grades, and teacher assignments for junior high schools.
-Tech: Laravel, PHP, MySQL, AJAX
+6️⃣ **Link Identification**  
+- Unique token system  
+- Logging access records  
+- Database modifications  
 
-👥 HR Training & Personnel Management System
-
-Tracks employee training schedules, attendance, certifications, and HR personnel records, with reporting and performance analysis.
-Tech: Laravel, PHP, MySQL, AJAX, Excel Import/Export
+**Tech (planned/ongoing):** Laravel, React.js, MySQL, AJAX, Dashboard UI

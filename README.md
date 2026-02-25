@@ -1,3 +1,14 @@
+##👋 Hello, I'm Harold (phpthinky)
+
+I'm a PHP Developer and IT professional with 7+ years of experience building web-based systems for education, public service, and business operations. My expertise spans PHP (CodeIgniter, Laravel), MySQL, system analysis, and administrative support. I develop solutions that serve academic institutions, cooperatives, and public utility organizations.
+
+###🔧 Technical Skills
+Backend: PHP (Laravel 11, CodeIgniter), RESTful APIs, Role-Based Access Control
+Database: MySQL / MariaDB Database Design & Management, Excel Import/Export
+Frontend: HTML5, CSS3, JavaScript, Bootstrap 5, AJAX, DataTables
+GIS / Mapping: QGIS integration, Spatial Analysis via PHP
+Other: System Documentation, End-User Training, Project Analysis
+
 ## 📌 Featured Projects
 
 ### ✅ Completed Projects

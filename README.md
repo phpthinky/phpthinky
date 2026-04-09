@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋 
+# Hi there, I'm Harold Rita 👋 
 ### Backend Developer | Systems Integrator | Tool Builder
 
 I am a **PHP/Laravel Architect** focused on building robust backends that orchestrate complex logic. I don't just build websites; I build **functional tools** that solve real-world problems in agriculture and computer vision.

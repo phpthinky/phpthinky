@@ -13,6 +13,7 @@ I use **Laravel** as the central brain to connect disparate technologies:
 * **Mobile:** React (Building APKs for real-world field-testing)
 * **Infrastructure:** Linux/Termux (Mobile-based Micro-servers), API Mocking
 * **Deployment:** Google Play Store (Production-ready APKs)
+* **GIS & Spatial Data:** Implementing Leaflet.js to visualize soil health trends and coordinate-based nutrient mapping for precision agriculture."
 
 ---
 
@@ -37,5 +38,5 @@ A mobile field assistant that brings laboratory precision to soil testing—enti
 ---
 
 ## 📫 Connect with me
-* **Interests:** AgriTech (Part of the TAMAD Ecosystem (Tech-Agri for Mindoro Agile Development). My philosophy is simple: Build it fast, ship it, and iterate based on real-world feedback.), API Orchestration, and Laravel Internals.
+* **Interests:** AgriTech (Part of the TAMAD Ecosystem "Tech-Agri for Mindoro Agile Development". My philosophy is simple: Build it fast, ship it, and iterate based on real-world feedback.), API Orchestration, and Laravel Internals.
 * **Location:** Philippines 🇵🇭

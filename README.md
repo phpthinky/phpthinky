@@ -37,5 +37,5 @@ A mobile field assistant that brings laboratory precision to soil testing—enti
 ---
 
 ## 📫 Connect with me
-* **Interests:** AgriTech (TAM Ecosystem), API Orchestration, and Laravel Internals.
+* **Interests:** AgriTech (Part of the TAMAD Ecosystem (Tech-Agri for Mindoro Agile Development). My philosophy is simple: Build it fast, ship it, and iterate based on real-world feedback.), API Orchestration, and Laravel Internals.
 * **Location:** Philippines 🇵🇭
